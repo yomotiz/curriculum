@@ -1,0 +1,72 @@
+/*body {
+	width: 100%;
+}*/
+.zen {
+	width: 400px;
+    height:700px;
+	margin: 0 auto;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+ }
+
+.TOP {
+    width: 400px;
+    height: 100px;
+    background-color: #141f40;
+
+}
+
+
+.boxL {
+    float: left;
+    width: 150px;
+    height: 250px;
+    background-color: #80bfa8;
+}
+
+.boxR {
+    float: right;
+    width: 250px;
+    height: 250px;
+}
+
+.boxR_L{
+    float: left;
+    width: 150px;
+}
+
+
+.box1 {
+    height: 50px;
+    background-color: #dbd400;
+}
+
+.box2 {
+    height: 100px;
+    background-color: #0093b7;
+}
+
+.boxR_R {
+    float: right;
+    width: 100px;
+    height: 150px;
+    background-color: #ff9e6b;
+
+}
+.boxR_D {
+    clear:right;
+    height: 100px;
+    background-color: #8c2727;
+
+}
+
+
+.down {
+    height: 100px;
+    background-color: #d98d30;
+
+}
