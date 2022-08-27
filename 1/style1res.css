@@ -1,0 +1,45 @@
+@media screen and (max-width: 479px) {
+
+    * {
+        float: none;
+        position: static;
+    }
+
+    .zen {
+        width: 200px;
+    }
+
+    .TOP {
+        height: 200px;
+    }
+
+    .TOP_box {
+        width: 60px;
+        height: 160px;
+        right: 70px;
+
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .main{
+        height: 310px;
+        flex-direction: column;
+    }
+
+    .main_L {
+        width: 200px;
+        height: 100px;
+    }
+
+    .main_R {
+        width: 200px;
+        height: 210px;
+    }
+
+    .R_box {
+        top: 20px;
+        left: 25px;
+    }
+
+}
