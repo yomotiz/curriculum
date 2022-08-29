@@ -1,0 +1,37 @@
+body {
+
+    width: 100%;
+    max-width: 1280px;
+    text-align: center;
+    margin: 0 auto;
+
+    background-color: gray;
+    font-family: "ＭＳ ゴシック", sans-serif;
+}
+
+hr {
+    border-width: 5px 0px 0px 0px;
+    border-style: solid;
+    border-color: white;
+
+}
+
+h1 {
+    color: white;
+    padding-top:20%;
+
+}
+
+h2{
+    color: white;
+    padding-top:50px;
+}
+
+p{
+    color: white;
+    padding-top:20px;
+}
+
+label{
+    color: white;
+}
