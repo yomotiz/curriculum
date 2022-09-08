@@ -1,0 +1,101 @@
+
+.right{
+    margin: 0;
+    display: inline-block;
+}
+
+select{
+    width:200px;
+    height:30px;
+}
+
+.botton{
+    
+    width:150px;
+    height:30px;
+    text-align : center;
+    background: cornflowerblue;
+    color:white;
+    font-size: 15px;
+    cursor:pointer;
+    border: cornflowerblue;
+}
+
+.botton_mizu{
+    padding: 5px 5px;
+    display:inline-block;
+    width:150px;
+    height:30px;
+    text-align : center;
+    margin:0px 40px;
+    background: #00b3b3;
+    color:white;
+    font-size: 15px;
+    cursor:pointer;
+    border: #00b3b3;
+    text-decoration:none;
+}
+
+.minibotton{
+    
+    padding: 5px 5px;
+    display:inline-block;
+    width:100px;
+    height:30px;
+    text-align : center;
+    margin:0px 5px;
+    background: cornflowerblue;
+    color:white;
+    font-size: 15px;
+    cursor:pointer;
+    border: cornflowerblue;
+    text-decoration:none;
+}
+
+.minibotton_g{
+    padding: 5px 5px;
+    display:inline-block;
+    width:100px;
+    height:30px;
+    text-align : center;
+    margin:0px 5px;
+    background: gray;
+    color:white;
+    font-size: 15px;
+    cursor:pointer;
+    border: gray;
+    text-decoration:none;
+}
+.minibotton_r{
+    padding: 5px 5px;
+    display:inline-block;
+    text-align : center;
+    margin:0px 5px;
+    background: rgb(196, 8, 8);
+    color:white;
+    font-size: 15px;
+    cursor:pointer;
+    border: red;
+    text-decoration:none;
+}
+
+table{
+    width:500px;
+    border-collapse: collapse;
+
+
+}
+table th{
+    color: black;
+    background: #d3d3d3;
+    text-align : center;
+    padding: 10px;
+
+    }
+table td{
+    color: black;
+    background: white;
+    text-align : center;
+    padding: 10px;
+
+    }
