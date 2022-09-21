@@ -49,7 +49,7 @@ img{
 
 .main{
     width: 80%;
-    padding: 3% 10%;
+    padding: 10px 10%;
     height: auto;
     resize: block;
 
@@ -58,10 +58,10 @@ img{
 
 .cline{
     height:20px;
-    padding: 5px;
+    padding: 2px;
     display:flex;
     justify-content: space-between;
-    gap: 6px 5px;
+    gap: 0 2px;
 }
 
 .kid{
